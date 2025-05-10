@@ -157,7 +157,6 @@ export default {
   },
 };
 </script>
-
 <style>
 body {
   background: linear-gradient(45deg, #ff9a9e, #fad0c4);
